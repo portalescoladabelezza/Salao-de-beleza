@@ -1,0 +1,6 @@
+{
+  "name": "Bella Studio Beauty",
+  "description": "Bella Studio Beauty — Salão de Beleza, Cabelo e Unhas. Agende escova, corte, hidratação, manicure, sobrancelhas e maquiagem pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
